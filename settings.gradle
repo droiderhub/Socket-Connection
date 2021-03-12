@@ -1,0 +1,2 @@
+rootProject.name='AposNetworkTest'
+include ':app'
